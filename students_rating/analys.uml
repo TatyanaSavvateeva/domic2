@@ -42,6 +42,10 @@
               name="analys_Диаграмавариантовиспользования2.pgml"
               diagramclass="org.argouml.uml.diagram.use_case.ui.UMLUseCaseDiagram"
               diagramname="Диаграма вариантов использования 2" />
+      <member type="pgml"
+              name="analys_untitledModel0.pgml"
+              diagramclass="org.argouml.uml.diagram.state.ui.UMLStateDiagram"
+              diagramname="untitledModel 0" />
       <member type="todo"
               name="analys.todo" />
     </members>
@@ -58,7 +62,7 @@
 			CodeGeneration
 		</plugin>
 </profile>
-<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Mon Oct 22 08:35:00 ULAT 2012'>
+<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Mon Oct 22 09:13:50 ULAT 2012'>
   <XMI.header>    <XMI.documentation>
       <XMI.exporter>ArgoUML (using Netbeans XMI Writer version 1.0)</XMI.exporter>
       <XMI.exporterVersion>0.34(6) revised on $Date: 2010-01-11 22:20:14 +0100 (Mon, 11 Jan 2010) $ </XMI.exporterVersion>
@@ -213,6 +217,20 @@
             </UML:AssociationEnd>
           </UML:Association.connection>
         </UML:Association>
+        <UML:StateMachine xmi.id = '-84-20-3-125-2b413167:13a85e86345:-8000:0000000000000978'
+          isSpecification = 'false'>
+          <UML:StateMachine.top>
+            <UML:CompositeState xmi.id = '-84-20-3-125-2b413167:13a85e86345:-8000:0000000000000979'
+              name = 'top' isSpecification = 'false' isConcurrent = 'false'>
+              <UML:CompositeState.subvertex>
+                <UML:Pseudostate xmi.id = '-84-20-3-125-2b413167:13a85e86345:-8000:000000000000097A'
+                  isSpecification = 'false' kind = 'initial'/>
+                <UML:FinalState xmi.id = '-84-20-3-125-2b413167:13a85e86345:-8000:000000000000097B'
+                  isSpecification = 'false'/>
+              </UML:CompositeState.subvertex>
+            </UML:CompositeState>
+          </UML:StateMachine.top>
+        </UML:StateMachine>
       </UML:Namespace.ownedElement>
     </UML:Model>
   </XMI.content>
@@ -1094,6 +1112,84 @@
       <lineto x="437"
               y="153" />
     </path>
+  </group>
+</pgml>
+<pgml description="org.argouml.uml.diagram.state.ui.UMLStateDiagram|-84-20-3-125-2b413167:13a85e86345:-8000:0000000000000978"
+      name="untitledModel 0"
+>
+  <group name="Fig0"
+       description="org.argouml.uml.diagram.state.ui.FigInitialState[88, 160, 16, 16]pathVisible=false;stereotypeView=0;"
+       href="-84-20-3-125-2b413167:13a85e86345:-8000:000000000000097A"
+       fill="1"
+       fillcolor="black"
+       stroke="1"
+       strokecolor="black"
+  >
+    <private>
+    </private>
+    
+    <ellipse name="Fig0.0"
+      x="96"
+      y="168"
+      rx="8"
+      ry="8"
+      fill="0"
+      fillcolor="255 0 255"
+      stroke="0"
+      strokecolor="255 0 255"
+    />
+    <ellipse name="Fig0.1"
+      x="96"
+      y="168"
+      rx="8"
+      ry="8"
+      fill="1"
+      fillcolor="black"
+      stroke="1"
+      strokecolor="black"
+    />
+  </group>
+  <group name="Fig1"
+       description="org.argouml.uml.diagram.state.ui.FigFinalState[664, 160, 24, 24]pathVisible=false;stereotypeView=0;"
+       href="-84-20-3-125-2b413167:13a85e86345:-8000:000000000000097B"
+       fill="1"
+       fillcolor="white"
+       stroke="1"
+       strokecolor="black"
+  >
+    <private>
+    </private>
+    
+    <ellipse name="Fig1.0"
+      x="676"
+      y="172"
+      rx="12"
+      ry="12"
+      fill="0"
+      fillcolor="white"
+      stroke="0"
+      strokecolor="black"
+    />
+    <ellipse name="Fig1.1"
+      x="676"
+      y="172"
+      rx="12"
+      ry="12"
+      fill="1"
+      fillcolor="white"
+      stroke="1"
+      strokecolor="black"
+    />
+    <ellipse name="Fig1.2"
+      x="675"
+      y="171"
+      rx="7"
+      ry="7"
+      fill="1"
+      fillcolor="black"
+      stroke="0"
+      strokecolor="85 85 170"
+    />
   </group>
 </pgml>
 <todo>
