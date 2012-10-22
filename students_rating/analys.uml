@@ -39,10 +39,6 @@
               diagramclass="org.argouml.uml.diagram.static_structure.ui.UMLClassDiagram"
               diagramname="Диаграмма классов" />
       <member type="pgml"
-              name="analys_Диаграмавариантовиспользования.pgml"
-              diagramclass="org.argouml.uml.diagram.use_case.ui.UMLUseCaseDiagram"
-              diagramname="Диаграма вариантов использования" />
-      <member type="pgml"
               name="analys_Диаграмавариантовиспользования2.pgml"
               diagramclass="org.argouml.uml.diagram.use_case.ui.UMLUseCaseDiagram"
               diagramname="Диаграма вариантов использования 2" />
@@ -62,7 +58,7 @@
 			CodeGeneration
 		</plugin>
 </profile>
-<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Mon Oct 15 09:09:52 ULAT 2012'>
+<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Mon Oct 22 08:35:00 ULAT 2012'>
   <XMI.header>    <XMI.documentation>
       <XMI.exporter>ArgoUML (using Netbeans XMI Writer version 1.0)</XMI.exporter>
       <XMI.exporterVersion>0.34(6) revised on $Date: 2010-01-11 22:20:14 +0100 (Mon, 11 Jan 2010) $ </XMI.exporterVersion>
@@ -226,10 +222,6 @@
 >
 </pgml>
 <pgml description="org.argouml.uml.diagram.use_case.ui.UMLUseCaseDiagram|-84-20-3-125-1c5fa61b:13a3dc84f55:-8000:0000000000000865"
-      name="Диаграма вариантов использования"
->
-</pgml>
-<pgml description="org.argouml.uml.diagram.use_case.ui.UMLUseCaseDiagram|-84-20-3-125-1c5fa61b:13a3dc84f55:-8000:0000000000000865"
       name="Диаграма вариантов использования 2"
 >
   <group name="Fig0"
@@ -256,7 +248,7 @@
     <text name="Fig0.1"
       x="124"
       y="143"
-      width="54"
+      width="53"
       height="24"
       fill="0"
       fillcolor="white"
@@ -506,7 +498,7 @@
       justification="Center"
     >ПосмотретьВесьРейтинг</text>
     <group name="Fig2.2"
-         description="org.argouml.uml.diagram.ui.FigStereotypesGroup[444, 149, 122, 0]"
+         description="org.argouml.uml.diagram.ui.FigStereotypesGroup[442, 152, 150, 0]"
          href="-84-20-3-125-1c5fa61b:13a3dc84f55:-8000:0000000000000868"
          fill="0"
          fillcolor="white"
@@ -518,9 +510,9 @@
       </private>
       
       <rectangle name="Fig2.2.0"
-        x="444"
-        y="149"
-        width="122"
+        x="442"
+        y="152"
+        width="150"
         height="0"
         fill="0"
         fillcolor="white"
@@ -530,7 +522,7 @@
     </group>
     <rectangle name="Fig2.3"
       x="10"
-      y="122"
+      y="10"
       width="11"
       height="1"
       fill="1"
@@ -540,7 +532,7 @@
       visibility="0"
     />
     <group name="Fig2.4"
-         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[0, 112, 0, 0]"
+         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[0, 0, 0, 0]"
          href="-84-20-3-125-1c5fa61b:13a3dc84f55:-8000:0000000000000868"
          fill="1"
          fillcolor="white"
@@ -553,7 +545,7 @@
       
       <rectangle name="Fig2.4.0"
         x="10"
-        y="122"
+        y="10"
         width="64"
         height="19"
         fill="0"
@@ -682,8 +674,8 @@
       />
     </group>
     <rectangle name="Fig4.3"
-      x="18"
-      y="-118"
+      x="10"
+      y="10"
       width="11"
       height="1"
       fill="1"
@@ -693,7 +685,7 @@
       visibility="0"
     />
     <group name="Fig4.4"
-         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[18, -118, 64, 19]"
+         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[10, 10, 64, 19]"
          href="-84-20-3-125-1c5fa61b:13a3dc84f55:-8000:0000000000000883"
          fill="1"
          fillcolor="white"
@@ -705,8 +697,8 @@
       </private>
       
       <rectangle name="Fig4.4.0"
-        x="18"
-        y="-118"
+        x="10"
+        y="10"
         width="64"
         height="19"
         fill="0"
@@ -843,7 +835,7 @@
       justification="Center"
     >ПосмотретьРейтингКаждойГруппы</text>
     <group name="Fig7.2"
-         description="org.argouml.uml.diagram.ui.FigStereotypesGroup[411, 265, 87, 0]"
+         description="org.argouml.uml.diagram.ui.FigStereotypesGroup[415, 278, 208, 0]"
          href="-84-20-3-125--6c62cbca:13a61cf4009:-8000:0000000000000970"
          fill="0"
          fillcolor="white"
@@ -855,9 +847,9 @@
       </private>
       
       <rectangle name="Fig7.2.0"
-        x="411"
-        y="265"
-        width="87"
+        x="415"
+        y="278"
+        width="208"
         height="0"
         fill="0"
         fillcolor="white"
@@ -866,8 +858,8 @@
       />
     </group>
     <rectangle name="Fig7.3"
-      x="410"
-      y="266"
+      x="10"
+      y="10"
       width="11"
       height="1"
       fill="1"
@@ -877,7 +869,7 @@
       visibility="0"
     />
     <group name="Fig7.4"
-         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[410, 266, 64, 19]"
+         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[10, 10, 64, 19]"
          href="-84-20-3-125--6c62cbca:13a61cf4009:-8000:0000000000000970"
          fill="1"
          fillcolor="white"
@@ -889,8 +881,8 @@
       </private>
       
       <rectangle name="Fig7.4.0"
-        x="410"
-        y="266"
+        x="10"
+        y="10"
         width="64"
         height="19"
         fill="0"
@@ -946,7 +938,7 @@
                         offset="5" />
     </private>
     <path name="Fig8.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
@@ -1003,7 +995,7 @@
                         offset="5" />
     </private>
     <path name="Fig9.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
@@ -1034,7 +1026,7 @@
                         offset="-10" />
     </private>
     <path name="Fig10.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
@@ -1091,7 +1083,7 @@
                         offset="5" />
     </private>
     <path name="Fig11.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
