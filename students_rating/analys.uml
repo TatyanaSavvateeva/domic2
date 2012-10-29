@@ -62,7 +62,7 @@
 			CodeGeneration
 		</plugin>
 </profile>
-<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Mon Oct 29 08:40:01 ULAT 2012'>
+<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Mon Oct 29 08:45:54 ULAT 2012'>
   <XMI.header>    <XMI.documentation>
       <XMI.exporter>ArgoUML (using Netbeans XMI Writer version 1.0)</XMI.exporter>
       <XMI.exporterVersion>0.34(6) revised on $Date: 2010-01-11 22:20:14 +0100 (Mon, 11 Jan 2010) $ </XMI.exporterVersion>
@@ -688,7 +688,7 @@
     </path>
   </group>
   <group name="Fig4"
-       description="org.argouml.uml.diagram.use_case.ui.FigUseCase[608, 168, 180, 58]pathVisible=false;stereotypeView=0;extensionPointVisible=false"
+       description="org.argouml.uml.diagram.use_case.ui.FigUseCase[600, 160, 180, 58]pathVisible=false;stereotypeView=0;extensionPointVisible=false"
        href="-84-20-3-125-1c5fa61b:13a3dc84f55:-8000:0000000000000883"
        fill="1"
        fillcolor="white"
@@ -699,8 +699,8 @@
     </private>
     
     <ellipse name="Fig4.0"
-      x="698"
-      y="197"
+      x="690"
+      y="189"
       rx="90"
       ry="29"
       fill="1"
@@ -709,8 +709,8 @@
       strokecolor="black"
     />
     <text name="Fig4.1"
-      x="617"
-      y="185"
+      x="609"
+      y="177"
       width="161"
       height="23"
       fill="0"
@@ -725,7 +725,7 @@
       justification="Center"
     >СинхронизироватьРейтинг</text>
     <group name="Fig4.2"
-         description="org.argouml.uml.diagram.ui.FigStereotypesGroup[617, 185, 161, 0]"
+         description="org.argouml.uml.diagram.ui.FigStereotypesGroup[609, 177, 161, 0]"
          href="-84-20-3-125-1c5fa61b:13a3dc84f55:-8000:0000000000000883"
          fill="0"
          fillcolor="white"
@@ -737,8 +737,8 @@
       </private>
       
       <rectangle name="Fig4.2.0"
-        x="617"
-        y="185"
+        x="609"
+        y="177"
         width="161"
         height="0"
         fill="0"
@@ -748,8 +748,8 @@
       />
     </group>
     <rectangle name="Fig4.3"
-      x="10"
-      y="10"
+      x="2"
+      y="2"
       width="11"
       height="1"
       fill="1"
@@ -759,7 +759,7 @@
       visibility="0"
     />
     <group name="Fig4.4"
-         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[0, 0, 0, 0]"
+         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[-8, -8, 0, 0]"
          href="-84-20-3-125-1c5fa61b:13a3dc84f55:-8000:0000000000000883"
          fill="1"
          fillcolor="white"
@@ -771,8 +771,8 @@
       </private>
       
       <rectangle name="Fig4.4.0"
-        x="10"
-        y="10"
+        x="2"
+        y="2"
         width="64"
         height="19"
         fill="0"
@@ -808,10 +808,10 @@
       stroke="1"
       strokecolor="black"
     >
-      <moveto x="623"
-              y="213" />
-      <lineto x="561"
-              y="227" />
+      <moveto x="620"
+              y="207" />
+      <lineto x="556"
+              y="225" />
     </path>
   </group>
   <group name="Fig6"
@@ -1417,9 +1417,9 @@
       stroke="1"
       strokecolor="black"
     >
-      <moveto x="693"
-              y="225" />
-      <lineto x="667"
+      <moveto x="686"
+              y="217" />
+      <lineto x="666"
               y="416" />
     </path>
   </group>
@@ -1448,10 +1448,10 @@
       stroke="1"
       strokecolor="black"
     >
-      <moveto x="571"
-              y="157" />
-      <lineto x="633"
-              y="176" />
+      <moveto x="574"
+              y="155" />
+      <lineto x="623"
+              y="169" />
     </path>
   </group>
 </pgml>
