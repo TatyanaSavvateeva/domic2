@@ -26,7 +26,7 @@
       <fontname>Dialog</fontname>
       <fontsize>12</fontsize>
       <defaultstereotypeview>0</defaultstereotypeview>
-      <activediagram>untitledModel 0</activediagram>
+      <activediagram>Диаграмма классов</activediagram>
     </settings>
     <searchpath href="PROJECT_DIR" />
     <members>
@@ -38,10 +38,6 @@
               name="WorkWithListenerGroups_Диаграммаклассов.pgml"
               diagramclass="org.argouml.uml.diagram.static_structure.ui.UMLClassDiagram"
               diagramname="Диаграмма классов" />
-      <member type="pgml"
-              name="WorkWithListenerGroups_Диаграмавариантовиспользования.pgml"
-              diagramclass="org.argouml.uml.diagram.use_case.ui.UMLUseCaseDiagram"
-              diagramname="Диаграма вариантов использования" />
       <member type="pgml"
               name="WorkWithListenerGroups_Диаграмавариантовиспользования2.pgml"
               diagramclass="org.argouml.uml.diagram.use_case.ui.UMLUseCaseDiagram"
@@ -66,7 +62,7 @@
 			CodeGeneration
 		</plugin>
 </profile>
-<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Mon Oct 29 10:10:02 IRKT 2012'>
+<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Mon Oct 29 10:13:25 IRKT 2012'>
   <XMI.header>    <XMI.documentation>
       <XMI.exporter>ArgoUML (using Netbeans XMI Writer version 1.0)</XMI.exporter>
       <XMI.exporterVersion>0.34(6) revised on $Date: 2010-01-11 22:20:14 +0100 (Mon, 11 Jan 2010) $ </XMI.exporterVersion>
@@ -522,10 +518,6 @@
 </XMI>
 <pgml description="org.argouml.uml.diagram.static_structure.ui.UMLClassDiagram|-84-20-4-123-212ad24c:13a3dea7d8a:-8000:0000000000000865"
       name="Диаграмма классов"
->
-</pgml>
-<pgml description="org.argouml.uml.diagram.use_case.ui.UMLUseCaseDiagram|-84-20-4-123-212ad24c:13a3dea7d8a:-8000:0000000000000865"
-      name="Диаграма вариантов использования"
 >
 </pgml>
 <pgml description="org.argouml.uml.diagram.use_case.ui.UMLUseCaseDiagram|-84-20-4-123-212ad24c:13a3dea7d8a:-8000:0000000000000865"
